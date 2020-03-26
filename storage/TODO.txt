@@ -1,0 +1,15 @@
+TODO
+	- intrests
+		- professional and non-professional
+	- experiences
+		- trips
+		- activites
+	- projects
+		- ui plugin
+	- about page (home page)
+		- my recent projects
+			- learn more sends to git repo
+			- add readme on github
+		- strengths
+			- explenations
+

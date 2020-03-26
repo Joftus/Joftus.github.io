@@ -1,0 +1,50 @@
+.fa:hover {
+  opacity: 0.7;
+}
+
+.btn-github {
+  background: #333;
+  color: white;
+}
+
+.btn-linkedin {
+  background: #2867B2;
+  color: white;
+}
+
+.btn-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.btn-instagram {
+  	background: #d6249f;
+  	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  	box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+	color: white;
+}
+
+.btn-reddit {
+	color: black !important;
+	background-color: white;
+}
+
+.social {
+	margin-top: 5%;
+}
+
+.img_cp {
+	padding-top: 25%;
+	padding-bottom: 23%;
+}
+
+.img_ds {
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+.skill_card {
+	height: 300px;
+	width: 300px;
+	margin: 10%;
+}
