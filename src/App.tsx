@@ -1,11 +1,9 @@
+import React from 'react';
 import { Head } from './components/common';
 
-function App() {
-  return (
-    <div className="App">
-      <Head/>
-    </div>
-  );
-}
+export default class App extends React.Component {
 
-export default App;
+  render = () => {
+    return <div className="App"><Head/></div>
+  }
+}
